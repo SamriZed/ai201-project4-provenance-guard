@@ -1,7 +1,7 @@
 # ai 201-project4-provenance-guard 
 
 ## Demo
-![](./assets/Codetour.mp4)
+[Code Tour](https://www.loom.com/share/2469681fe9024a0390b02d9c33452cad)
 
 ## Running the app
 
