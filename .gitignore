@@ -7,6 +7,3 @@ audit_log.jsonl
 # Python bytecode cache
 __pycache__/
 *.pyc
-
-# Large media (share via Drive/LFS, not git)
-assets/Codetour.mp4
